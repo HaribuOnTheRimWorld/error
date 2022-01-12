@@ -1,0 +1,9 @@
+Mod Un-Limited did not load any content. Following load folders were used:
+- C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\1668141382\1.1
+Verse.Log:Verse.Log.Error_Patch0(String, Boolean)
+Verse.<>c:<LoadModContent>b__13_1()
+Verse.LongEventHandler:Verse.LongEventHandler.ExecuteToExecuteWhenFinished_Patch0()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:Verse.Root.Update_Patch1(Root)
+Verse.Root_Entry:Verse.Root_Entry.Update_Patch0(Root_Entry)
